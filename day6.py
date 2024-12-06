@@ -28,7 +28,6 @@ op += 1
 f = True
 i = iPos
 j = jPos
-arr[i][j] = "X"
 
 
 def simulate(i, j, dir, ci, cj):
