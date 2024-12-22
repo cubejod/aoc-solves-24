@@ -1,4 +1,5 @@
-# fast p1, slow p2 with extremely disgraceful code. original brute force was abhorrent and ran for 25 minutes, this has been refactored to be clean and run in 5 seconds.
+# fast p1, slow p2 with extremely disgraceful code. original brute force was abhorrent and ran for 25 minutes.
+# this has been refactored to be clean and run in 5 seconds.
 d = open("day22input.txt").read().strip()
 l = d.split("\n")
 op, op2 = 0, 0
